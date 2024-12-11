@@ -1,4 +1,4 @@
-module github.com/ginuerzh/gost
+module github.com/elBarkey/gost
 
 go 1.22
 
