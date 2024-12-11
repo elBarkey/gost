@@ -3,6 +3,7 @@ module github.com/ginuerzh/gost
 go 1.22
 
 replace github.com/templexxx/cpu v0.0.7 => github.com/templexxx/cpu v0.0.10-0.20211111114238-98168dcec14a
+replace github.com/ginuerzh/gost => github.com/elBarkey/gost
 
 require (
 	github.com/LiamHaworth/go-tproxy v0.0.0-20190726054950-ef7efd7f24ed
